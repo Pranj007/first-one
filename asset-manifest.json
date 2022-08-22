@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/suprise/static/css/main.ecaf6600.css",
+    "main.js": "/suprise/static/js/main.fbff8c82.js",
+    "static/js/787.3206c9ee.chunk.js": "/suprise/static/js/787.3206c9ee.chunk.js",
+    "static/media/ypd.mp3": "/suprise/static/media/ypd.edba20a3464684de434d.mp3",
+    "static/media/vincent Van Gogh.jpg": "/suprise/static/media/vincent Van Gogh.9aebf95a889f710aa372.jpg",
+    "static/media/vamp-real.png": "/suprise/static/media/vamp-real.f2b0fe891f550046c745.png",
+    "static/media/princess.png": "/suprise/static/media/princess.a820e00bdd034ae3d0f9.png",
+    "static/media/queen-real.png": "/suprise/static/media/queen-real.1273b5cf7ecce2ecd49d.png",
+    "static/media/1.png": "/suprise/static/media/1.26d33927bef2bbffe0cc.png",
+    "index.html": "/suprise/index.html",
+    "main.ecaf6600.css.map": "/suprise/static/css/main.ecaf6600.css.map",
+    "main.fbff8c82.js.map": "/suprise/static/js/main.fbff8c82.js.map",
+    "787.3206c9ee.chunk.js.map": "/suprise/static/js/787.3206c9ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecaf6600.css",
+    "static/js/main.fbff8c82.js"
+  ]
+}
